@@ -34518,11 +34518,13 @@ a.u-link.u-text-hover-grey-90:hover {
         /** common-rules **/
         h1.u-title
         {
-        font-weight: 400;
         font-size: 4.5rem;
         line-height: 1.1;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-weight: 700;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
         }
         h2.u-subtitle
         {
@@ -34794,28 +34796,34 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 112px;
+  min-height: 128px;
 }
 
 .u-header .u-image-1 {
-  width: 239px;
-  height: 84px;
-  margin: 14px auto 14px -32px;
-}
-
-.u-header .u-logo-image-1 {
-  width: 100%;
-  height: 100%;
+  width: 215px;
+  height: 76px;
+  margin: 26px auto 26px -13px;
 }
 @media (max-width: 1199px) {
   .u-header .u-image-1 {
-    margin-left: -32px;
-    width: 239px;
+    width: 215px;
+    height: 76px;
+    margin-left: -13px;
   }
 }
 
 
+@media (max-width: 575px) {
+  .u-header .u-sheet-1 {
+    min-height: 102px;
+  }
 
+  .u-header .u-image-1 {
+    margin-top: 13px;
+    margin-bottom: 13px;
+    margin-left: -24px;
+  }
+}
 .u-footer {
   background-image: none;
 }
