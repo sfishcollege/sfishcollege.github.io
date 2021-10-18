@@ -35057,6 +35057,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
   .u-footer .u-text-1 {
     margin-top: -13px;
+    font-size: 1rem;
   }
 }
 @media (max-width: 991px) {
@@ -35084,7 +35085,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-1 {
-    font-size: 1rem;
     width: auto;
     margin-top: -64px;
   }
