@@ -230,10 +230,10 @@
 }
 
 .u-section-2 .u-video-1 {
-  width: 998px;
-  height: 491px;
+  width: 982px;
+  height: 483px;
   animation-duration: 1000ms;
-  margin: 48px auto;
+  margin: 52px auto;
 }
 
 .u-section-2 .embed-responsive-1 {
@@ -280,8 +280,6 @@
 
   .u-section-2 .u-video-1 {
     height: 188px;
-    margin-top: 27px;
-    margin-bottom: 5px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
@@ -669,7 +667,7 @@
   .u-section-3 .u-image-1 {
     height: 357px;
     width: 310px;
-    margin-top: 42px;
+    margin-top: 44px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -678,20 +676,21 @@
     font-weight: 700;
     font-size: 1.25rem;
     width: auto;
-    margin-top: 21px;
+    margin-top: 19px;
     margin-right: 90px;
     margin-left: 10px;
   }
 
   .u-section-3 .u-text-3 {
     font-weight: normal;
+    margin-top: 7px;
   }
 
   .u-section-3 .u-social-icons-1 {
     width: 158px;
     min-width: 94px;
-    margin-top: 33px;
-    margin-bottom: -32px;
+    margin-top: 36px;
+    margin-bottom: -8px;
   }
 
   .u-section-3 .u-icon-1 {
@@ -713,7 +712,7 @@
   .u-section-3 .u-image-2 {
     height: 357px;
     width: 310px;
-    margin-top: 42px;
+    margin-top: 44px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -721,22 +720,23 @@
   .u-section-3 .u-text-4 {
     font-size: 1.25rem;
     width: auto;
-    margin-top: 21px;
+    margin-top: 19px;
     margin-right: 90px;
   }
 
   .u-section-3 .u-text-5 {
     width: auto;
+    font-weight: normal;
+    margin-top: 7px;
     margin-left: 10px;
     margin-right: 10px;
-    font-weight: normal;
   }
 
   .u-section-3 .u-social-icons-2 {
     width: 158px;
     min-width: 94px;
-    margin-top: 33px;
-    margin-bottom: -32px;
+    margin-top: 36px;
+    margin-bottom: -8px;
   }
 
   .u-section-3 .u-icon-5 {
@@ -758,7 +758,7 @@
   .u-section-3 .u-image-3 {
     height: 357px;
     width: 310px;
-    margin-top: 42px;
+    margin-top: 44px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -766,22 +766,23 @@
   .u-section-3 .u-text-6 {
     font-size: 1.25rem;
     width: auto;
-    margin-top: 21px;
+    margin-top: 19px;
     margin-right: 90px;
   }
 
   .u-section-3 .u-text-7 {
     width: auto;
+    font-weight: normal;
+    margin-top: 7px;
     margin-left: 10px;
     margin-right: 10px;
-    font-weight: normal;
   }
 
   .u-section-3 .u-social-icons-3 {
     width: 158px;
     min-width: 94px;
-    margin-top: 33px;
-    margin-bottom: -32px;
+    margin-top: 36px;
+    margin-bottom: -8px;
   }
 
   .u-section-3 .u-icon-9 {
@@ -803,7 +804,7 @@
   .u-section-3 .u-image-4 {
     height: 357px;
     width: 310px;
-    margin-top: 42px;
+    margin-top: 44px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -811,22 +812,23 @@
   .u-section-3 .u-text-8 {
     font-size: 1.25rem;
     width: auto;
-    margin-top: 21px;
+    margin-top: 19px;
     margin-right: 90px;
   }
 
   .u-section-3 .u-text-9 {
     width: auto;
+    font-weight: normal;
+    margin-top: 7px;
     margin-left: 10px;
     margin-right: 10px;
-    font-weight: normal;
   }
 
   .u-section-3 .u-social-icons-4 {
     width: 158px;
     min-width: 94px;
-    margin-top: 33px;
-    margin-bottom: -32px;
+    margin-top: 36px;
+    margin-bottom: -8px;
   }
 
   .u-section-3 .u-icon-13 {
