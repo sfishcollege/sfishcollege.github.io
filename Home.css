@@ -1924,7 +1924,6 @@
 
 .u-section-6 .u-repeater-1 {
   min-height: 117px;
-  grid-auto-columns: 100%;
   grid-template-columns: 100%;
   grid-gap: 0px 0px;
 }
